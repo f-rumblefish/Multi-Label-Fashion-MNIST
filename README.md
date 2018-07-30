@@ -2,7 +2,8 @@
 
 This repository covers the code for the blog.
 
-Blog: https://towardsdatascience.com/multi-label-classification-and-class-activation-map-on-fashion-mnist-1454f09f5925
+Blog: 
+   https://towardsdatascience.com/multi-label-classification-and-class-activation-map-on-fashion-mnist-1454f09f5925
 
 Code:
 There are two files in this task: fashion_plot.py and fashion_read.py
