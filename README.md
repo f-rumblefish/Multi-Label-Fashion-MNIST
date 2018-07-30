@@ -16,9 +16,9 @@ Dependency:
 - Python 2.7.11
 - Keras 2.1.6
 - Theano 0.9.0 
-- Matplotlib 1.5.1
 - Pandas 0.18.1
 - Numpy 1.14.3
+- Matplotlib 1.5.1
 - opencv-python 3.3.0.10
 
 Images and Metadata:
