@@ -6,7 +6,7 @@ Blog: https://towardsdatascience.com/multi-label-classification-and-class-activa
 
 Code:
 There are two files in this task: fashion_plot.py and fashion_read.py
-- fashion_plot.py ~ read fashion_mnist then create the new dataset and its metadata files
+- fashion_plot.py ~ read fashion_mnist then create the new datasets and their metadata files
   (usage: 1. create two folders "train" and "test", 2. run python fashion_plot.py under the "train" folder which will create all the image files and the metadata file called "labels.csv", 3. run python fashion_ploy.py under the "test" folder which will create all the image files and the metadata file called "labels.csv";)
 - fashion_read.py ~ implement multi-label classification and class activation map, i.e., read "train/labels.csv" to train and read "test/labels.csv" to test
   (usage: python fashion_read.py
