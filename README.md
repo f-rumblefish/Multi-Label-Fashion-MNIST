@@ -19,10 +19,10 @@ Dependency:
 - Pandas 0.18.1
 - Numpy 1.14.3
 - Matplotlib 1.5.1
-- opencv-python 3.3.0.10
+- Opencv-python 3.3.0.10
 
 Metadata:
-- labels.csv is presented for reference only. It is better to run fashion_plot create your own dataset and metadata.
+- labels.csv is presented for reference only. It is better to run fashion_plot and create your own dataset and metadata.
 
 Note:
 - My Win10 12G RAM notebook (with no GPU) has two software environments: Python 2.7.11/Keras 2.1.6/Theano 0.9.0 and Python 3.6.3/Keras 2.0.8/Tensorflow 1.4.0. The programs (with some ugly compromises) running under the former one mainly due to the memory issue. Further, it takes about 1 or 2 days to complete training on my notebook. 
