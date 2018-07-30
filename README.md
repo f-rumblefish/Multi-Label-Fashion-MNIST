@@ -21,7 +21,7 @@ Dependency:
 - opencv-python 3.3.0.10
 
 Images and Metadata:
-labels.csv is presented for reference only. It is better to create your own dataset and metadata.
+- labels.csv is presented for reference only. It is better to create your own dataset and metadata.
 
 Note:
 - My Win10 12G RAM notebook (with no GPU) has two environments: Python 2.7.11/Keras 2.1.6/Theano 0.9.0 and Python 3.6.3/Keras 2.0.8/Tensorflow 1.4.0. These programs are running under the former one mainly due to the memory issue. Further, it takes about 1 or 2 days to complete training on my notebook. 
