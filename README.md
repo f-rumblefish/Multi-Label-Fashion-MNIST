@@ -21,7 +21,7 @@ Dependency:
 - Matplotlib 1.5.1
 - opencv-python 3.3.0.10
 
-Images and Metadata:
+Metadata:
 - labels.csv is presented for reference only. It is better to run fashion_plot create your own dataset and metadata.
 
 Note:
