@@ -1,4 +1,4 @@
-# Multi-Label Classification and Class Activation Map on Fashion MNIST
+# Multi-Label Classification and Class Activation Map on Fashion-MNIST
 
 This repository covers the code for the blog.
 
